@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.3c1d3e65.js",
+    "main.js": "/static/js/main.5b282626.js",
     "static/js/453.96395bfa.chunk.js": "/static/js/453.96395bfa.chunk.js",
+    "static/media/laser_and_crystal.jpg": "/static/media/laser_and_crystal.04b51c13132a296ee3cf.jpg",
     "static/media/react.svg": "/static/media/react.6d4dd5dfc6163bdfcfe520bd6bef1a6a.svg",
-    "static/media/vite.svg": "/static/media/vite.86cd94ee28a26d6789506af66921f564.svg",
     "index.html": "/index.html",
     "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.3c1d3e65.js.map": "/static/js/main.3c1d3e65.js.map",
+    "main.5b282626.js.map": "/static/js/main.5b282626.js.map",
     "453.96395bfa.chunk.js.map": "/static/js/453.96395bfa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.3c1d3e65.js"
+    "static/js/main.5b282626.js"
   ]
 }
