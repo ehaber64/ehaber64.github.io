@@ -1,0 +1,11 @@
+This simulator shows the diffraction patterns you would expect to get in a real X-ray crystallography experiment! You can play around with the type of crystal sample and some of the experimental parameters at the bottom of the page to see how the pattern changes. The X-ray crystallography setup on the left shows the experimental setup we’re using. We have an X-ray source in grey, a blue line representing the focused X-ray beam, and the red crystal is the sample we’re trying to study. <br/>
+
+The diffracted light from the crystal is displayed in the red and blue graph in the middle labeled “Diffraction pattern.” In the blue box at the bottom of the page are the experimental parameters you can play with. The wavelength slider allows you to change the wavelength of the X-ray beams. As discussed in the activity guide, only wavelengths close to the atomic spacing will create diffraction patterns that reveal the atomic structure of the crystal. Try many different wavelengths to observe how the pattern changes. <br/>
+
+The incident angle slider sets what angle the X-ray beam hits the sample, and you can try to see how the orientation of the crystal affects the patterns you measure. <br/>
+
+The temperature slider can be used to heat up the crystal sample. The heat causes the atoms to vibrate and jiggle around, which, as you probably noticed during the activity, can make it difficult to see the characteristic pattern of each crystal. In real experiments crystal samples are usually cooled to very low temperatures to reduce the effect of this noise. <br/>
+
+Once you’ve set each slider where you want it click the “Update the graph” button to run the simulation and see your diffraction pattern! <br/>
+
+Finally, you can use the crystal lattice dropdown menu to select a different type of lattice. Play around with the different lattices, wavelengths and X-ray angles to see if you can tell the difference between each crystal based solely on their diffraction patterns. This is exactly what scientists and engineers use the tools of crystallography that you’ve been learning about to do! <br/>
